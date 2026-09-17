@@ -1,0 +1,11 @@
+## Part 2 Changelog
+- Removed all inline style="..." attributes from the 5 HTML pages.
+- Created an external css/style.css file and linked it to all pages.
+- Replaced the broken HTML tables in the header with flexbox divs (class="topbar") for a responsive layout.
+- Added CSS grid (class="products") to display the product cards neatly.
+- Added media queries so the website stacks properly on mobile and tablet screens.
+- Added hover and focus effects to buttons and links.
+- Added a 6th page: cart.html, linked from the CART button in the header and the "add to cart" buttons on the services page (extra page documented here as the brief requires).
+- Added the master header and footer to all pages so every page links to every page (menu, CART and føøter links).
+- Extra pages cart.html, delivery.html and payment.html linked from the føøter and from the services/cart pages (døcumented here as the brief requires).
+- Added another images, changed the structure for the clothing options to choose from.
